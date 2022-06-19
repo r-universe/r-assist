@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "errorist"]
+	path = errorist
+	url = https://github.com/r-assist/errorist
+	shallow = true
+	registered = true
+[submodule "searcher"]
+	path = searcher
+	url = https://github.com/r-assist/searcher
+	shallow = true
+	registered = true

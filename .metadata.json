@@ -1,0 +1,10 @@
+[
+  {
+    "package": "errorist",
+    "oncran": true
+  },
+  {
+    "package": "searcher",
+    "oncran": true
+  }
+]
